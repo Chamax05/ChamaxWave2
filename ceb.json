@@ -72,12 +72,15 @@
   "a3": 28.00,
   "af": 1000.00,
   "note1":"Hello User,How Are You ?",
-  "note2": 20.00,
-  "note3": 25.00,
-  "note4": 30.00,
-  "note5": 50.00,
-  "note6": 50.00,
-  "note7": 75.00
+  "note2": "New connection electricity charges",
+  "note3": "Single Phase -: ",
+  "note4": "Three Phase -:",
+  "note5": "About",
+  "note6": "more",
+  "note7": "more",
+  "note8": "Check Your Last Month Bill",
+  "note9tou": "Smart Timing, Big Savings",
+  "note10agr": "Lower Tariffs for Greener Fields"
   
  
   
